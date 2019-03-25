@@ -3,7 +3,7 @@
 This is the final week of the Apache Spark series and consists of a graded 
 project notebook found in this repository.
 
-**Due date**: May 8, 18:00
+**Due date**:  May 8, 18:00
 
 As always, fork this repository into your own namespace. The contents of your 
 forked repo on the due date will graded.
